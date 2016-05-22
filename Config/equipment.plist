@@ -1,0 +1,39 @@
+(
+	(
+		0, 10000, "System Drive",
+		"EQ_BREAKABLE_ENGINE_SMALL",
+		"Ionic Repulsion System Drive - your ship's main mode of propulsion.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beng_status equal EQ_BREAKABLE_ENGINE_SMALL");
+		}
+	),
+	(
+		0, 20000, "System Drive",
+		"EQ_BREAKABLE_ENGINE_MEDIUM",
+		"Ionic Repulsion System Drive - your ship's main mode of propulsion.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beng_status equal EQ_BREAKABLE_ENGINE_MEDIUM");
+		}
+	),
+	(
+		0, 40000, "System Drive",
+		"EQ_BREAKABLE_ENGINE_LARGE",
+		"Ionic Repulsion System Drive - your ship's main mode of propulsion.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beng_status equal EQ_BREAKABLE_ENGINE_LARGE");
+		}
+	),
+	(
+		0, 80000, "System Drive",
+		"EQ_BREAKABLE_ENGINE_MONSTER",
+		"Ionic Repulsion System Drive - your ship's main mode of propulsion.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beng_status equal EQ_BREAKABLE_ENGINE_MONSTER");
+		}
+	)
+)
+
